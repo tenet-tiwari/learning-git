@@ -1,0 +1,4 @@
+error.log
+*.log(for ignoring all file with same extenion)
+dir/(every dir present)
+test3.txt
